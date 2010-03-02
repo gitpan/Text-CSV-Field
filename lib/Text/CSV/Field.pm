@@ -2,7 +2,7 @@ package Text::CSV::Field;
 use strict;
 
 BEGIN {
-    $Text::CSV::Field::VERSION = '1.00';
+    $Text::CSV::Field::VERSION = '1.01';
 }
 
 
@@ -102,7 +102,7 @@ Text::CSV::Field - Get data from Text CSV file using header field.
 
 =head1 VERSION
 
-    1.00
+    1.01
 
 =head1 SYNOPSIS
 
